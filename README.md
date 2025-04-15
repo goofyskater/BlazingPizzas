@@ -29,3 +29,7 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+Note: The above notice should be included in all copies or substantial portions of the Software.
+
+This was adopted from Microsoft sample code. It is just for testing GitHub repo.
